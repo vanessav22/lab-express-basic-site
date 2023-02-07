@@ -1,0 +1,45 @@
+* {
+    margin: 10;
+    padding: 0;
+}
+
+h1 {
+    text-align:  center;
+    padding: 20px 10px;
+    font-size: 50px;
+    border-width: 5px;
+    border-style: groove;
+    border-color: green;
+    margin-bottom: 20px;
+}
+
+body {
+
+    background-color: rgb(100, 175, 113);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 20px;
+    margin-right: 20px;
+   }
+
+.GreenImage img {
+  
+  width: 350px;
+  height: 350px;
+  margin-left: 10px;
+  margin-right: 20px;
+
+}
+
+.PersonImage img {
+  width: 500px;
+  height: 350px;
+
+
+ }
+
+ .images {
+display: flex;
+flex-direction: row;
+align-content: center;
+justify-content: center;
+ }

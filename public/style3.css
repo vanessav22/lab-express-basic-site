@@ -1,0 +1,46 @@
+
+
+body {
+    background-color: rgb(100, 175, 113);
+    row-gap: 200px; 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20px;
+    margin-right: 20px;
+   }
+   
+   
+   
+   h1 {
+   text-align: center;
+   padding: 20px 20px;
+   font-size: 50px;
+   border-width: 5px;
+   border-style: groove;
+   border-color: green;
+   
+   }
+   
+   
+   .LunchImage img {
+       margin-top: 30px;
+       max-width: 600px;
+       max-height: 400px;
+       margin-right: 100px;
+   
+   }
+   
+   p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    text-align:justify;
+    margin-right: 20px;
+   }
+
+
+   .section1 {
+       display: flex;
+       justify-content: space-around;
+       flex-direction: row;
+       flex-flow: row;
+   
+   }

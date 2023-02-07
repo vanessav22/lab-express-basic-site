@@ -1,0 +1,55 @@
+
+
+body {
+ background-color: rgb(100, 175, 113);
+ row-gap: 200px; 
+ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ margin-left: 20px;
+ margin-right: 20px;
+}
+
+
+
+h1 {
+text-align: center;
+padding: 20px 20px;
+font-size: 50px;
+border-width: 5px;
+border-style: groove;
+border-color: green;
+
+}
+
+.list {
+font-size: 30px;
+text-decoration: none;
+list-style: none;
+line-height: 100px;
+font-weight: bold;
+margin-right: 10px;
+
+}
+
+a {
+text-decoration: none;
+color:black; 
+}
+
+.SkyGardenImage img {
+    margin-top: 30px;
+    max-width: 600px;
+    max-height: 400px;
+    box-shadow: 0 10px 50px 0 rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    transform: rotate(10deg);
+    margin-right: 100px;
+
+}
+
+.section1 {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-flow: row;
+
+}

@@ -1,0 +1,30 @@
+* {
+    margin: 10;
+    padding: 0;
+}
+
+h1 {
+    text-align:  center;
+    padding: 20px 10px;
+    font-size: 50px;
+    border-width: 5px;
+    border-style: groove;
+    border-color: green;
+    margin-bottom: 10px;
+}
+
+body {
+
+    background-color: rgb(100, 175, 113);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 20px;
+    margin-right: 20px;
+   }
+
+p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    text-align:justify;
+
+
+}
